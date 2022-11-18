@@ -26,7 +26,7 @@
     "bitcoin",
     "ethereum"
   ],
-  "author": "JP Richardson",
+  "author": "Exodus Movement, Inc.",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/exodusmovement/format-num/issues"
